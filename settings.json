@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zebrafish.aternos.host:57589",
+    "ip": "mafiauniverse2026.aternos.me",
     "port": 57589,
     "version": "1.21.1",
     "try-creative": true
@@ -41,7 +41,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
