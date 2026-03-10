@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zebrafish.aternos.host",
+    "ip": "zebrafish.aternos.host:57589",
     "port": 57589,
     "version": "1.21.1",
     "try-creative": true
