@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blockbrim.aternos.me",
-    "port": 57589,
+    "ip": "blocksprism.falix.gg",
+    "port": 29830,
     "version": "1.21.1",
     "try-creative": true
   },
